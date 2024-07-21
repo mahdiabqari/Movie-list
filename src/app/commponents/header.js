@@ -13,7 +13,7 @@ export default function Header(){
         e.preventDefault()
         if(!check){
             setInfo([
-                {title: 'Marvel' , to:'./' , id:1},
+                {title: 'Fiction' , to:'./' , id:1},
                 {title: 'Action' , to:'./Action' , id:2},
                 {title: 'Drum' , to:'./Drum' , id:3},
             ])
